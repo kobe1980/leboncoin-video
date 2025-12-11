@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Leboncoin Video</string>
+    <string name="home_tab">Accueil</string>
+    <string name="search_tab">Recherche</string>
+    <string name="messages_tab">Messages</string>
+    <string name="profile_tab">Profil</string>
+    <string name="video_discoveries">Découvertes en vidéo</string>
+    <string name="recommendations">Recommandations</string>
+    <string name="content_description_listing_image">Image de l\'annonce</string>
+    <string name="content_description_video_player">Lecteur vidéo</string>
+    <string name="price_format">%d %s</string>
+    <string name="new_badge">Nouveau</string>
+    <string name="good_deal_badge">Bon plan</string>
+    <string name="loading">Chargement...</string>
+    <string name="error_loading">Erreur lors du chargement</string>
+    <string name="retry">Réessayer</string>
+    <string name="seller_section">Vendeur</string>
+    <string name="description_section">Description</string>
+    <string name="attributes_section">Caractéristiques</string>
+</resources>
